@@ -12,7 +12,7 @@
 		7 => "Crafting Loot 1", 
 		8 => "- Loot 1 Count", 
 		9 => "Crafting Loot 2",
-        10 => "- Loot 2 Count", 
+  		10 => "- Loot 2 Count", 
 		11 => "Crafting Loot 3", 
 		12 => "- Loot 3 Count", 
 		13 => "Poise", 
