@@ -18,5 +18,5 @@
 		17 => "Elem|Blood", 
 		18 => "Elem|Undead", 
 		19 => "Elem|Mind", 
-		20 => "Elem|Dark", 
-        21 => "Full Proc", 
+		20 => "Elem|Dark",
+  		21 => "Full Proc", 
